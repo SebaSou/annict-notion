@@ -110,7 +110,7 @@ export async function createNewAnimePage(data) {
     if (jikanImages) {
       images = jikanImages; // 成功した場合、取得した画像をimagesに代入します
     }
-    console.log(`Jikan APIから画像情報を取得しました: ${data.title}`);
+    // console.log(`Jikan APIから画像情報を取得しました: ${data.title}`);
 
   } catch (error) {
     if (error.response && error.response.status === 404) {
