@@ -69,11 +69,11 @@
   },
   "338": {
     "notion_id": "27cacd82-f0f4-810c-8b9f-f9be70ffc203",
-    "status": "on_hold"
+    "status": "wanna_watch"
   },
   "339": {
     "notion_id": "27cacd82-f0f4-810b-9eb9-e75116a913b6",
-    "status": "on_hold"
+    "status": "wanna_watch"
   },
   "346": {
     "notion_id": "27cacd82-f0f4-81b1-87ce-ea7b2b5e20a5",
@@ -185,7 +185,7 @@
   },
   "1062": {
     "notion_id": "27cacd82-f0f4-81bd-b52c-c9c545fd2e9a",
-    "status": "wanna_watch"
+    "status": "stop_watching"
   },
   "1076": {
     "notion_id": "27cacd82-f0f4-81fa-8779-d7e1af7f93bf",
@@ -461,7 +461,7 @@
   },
   "2189": {
     "notion_id": "27cacd82-f0f4-81de-b644-c7e8174144fa",
-    "status": "on_hold"
+    "status": "wanna_watch"
   },
   "2228": {
     "notion_id": "27cacd82-f0f4-8145-9605-c221dfb2e6d3",
@@ -1221,7 +1221,7 @@
   },
   "5175": {
     "notion_id": "27cacd82-f0f4-81b1-bcee-fc880d23c194",
-    "status": "wanna_watch"
+    "status": "watched"
   },
   "5181": {
     "notion_id": "27cacd82-f0f4-81ca-b620-c49ece0b030b",
@@ -1229,7 +1229,7 @@
   },
   "5190": {
     "notion_id": "27cacd82-f0f4-814e-8317-cd0ae91e54b1",
-    "status": "wanna_watch"
+    "status": "stop_watching"
   },
   "5193": {
     "notion_id": "27cacd82-f0f4-815d-b236-f82a0856b2f6",
@@ -1469,7 +1469,7 @@
   },
   "5709": {
     "notion_id": "27cacd82-f0f4-81b7-8900-e1dd82e504a4",
-    "status": "wanna_watch"
+    "status": "watched"
   },
   "5710": {
     "notion_id": "27cacd82-f0f4-810a-b98e-edfd7b1a989c",
@@ -1501,7 +1501,7 @@
   },
   "5768": {
     "notion_id": "27cacd82-f0f4-819e-92c0-ee23c1d2aa72",
-    "status": "stop_watching"
+    "status": "on_hold"
   },
   "5789": {
     "notion_id": "27cacd82-f0f4-8102-b965-dcc55a5fafd8",
@@ -1569,11 +1569,11 @@
   },
   "5988": {
     "notion_id": "27cacd82-f0f4-8194-aeb6-d152325b7179",
-    "status": "wanna_watch"
+    "status": "watched"
   },
   "5992": {
     "notion_id": "27cacd82-f0f4-8113-bd4e-e3f4c38c9d5c",
-    "status": "wanna_watch"
+    "status": "watched"
   },
   "6010": {
     "notion_id": "27cacd82-f0f4-81c0-82fd-e0926369b49b",
@@ -1677,7 +1677,7 @@
   },
   "6285": {
     "notion_id": "27cacd82-f0f4-813f-b1c6-ce733c8562da",
-    "status": "wanna_watch"
+    "status": "on_hold"
   },
   "6291": {
     "notion_id": "27cacd82-f0f4-81f7-a0f5-c85e1edc2b97",
@@ -1705,7 +1705,7 @@
   },
   "6326": {
     "notion_id": "27cacd82-f0f4-8101-967a-c08254b1c537",
-    "status": "stop_watching"
+    "status": "on_hold"
   },
   "6328": {
     "notion_id": "27cacd82-f0f4-8149-a7a6-fecc7abf537a",
@@ -1733,7 +1733,7 @@
   },
   "6400": {
     "notion_id": "27cacd82-f0f4-8179-87a4-e1a46bc02ab6",
-    "status": "stop_watching"
+    "status": "on_hold"
   },
   "6401": {
     "notion_id": "27cacd82-f0f4-8101-bed1-fb4e8d3250e8",
@@ -1805,7 +1805,7 @@
   },
   "6540": {
     "notion_id": "27cacd82-f0f4-813b-8aa1-c350f0081f2b",
-    "status": "wanna_watch"
+    "status": "on_hold"
   },
   "6582": {
     "notion_id": "27cacd82-f0f4-8160-909f-c3688015e62c",
@@ -1885,7 +1885,7 @@
   },
   "6765": {
     "notion_id": "27cacd82-f0f4-812e-a3dc-c4f6f9974758",
-    "status": "on_hold"
+    "status": "wanna_watch"
   },
   "6774": {
     "notion_id": "27cacd82-f0f4-813f-b35d-e9cc76cd5a0b",
@@ -2073,7 +2073,7 @@
   },
   "7392": {
     "notion_id": "27cacd82-f0f4-815a-82f0-d901bf4115c6",
-    "status": "stop_watching"
+    "status": "on_hold"
   },
   "7397": {
     "notion_id": "27cacd82-f0f4-8163-a85c-e22a8411c29c",
@@ -2117,7 +2117,7 @@
   },
   "7507": {
     "notion_id": "27cacd82-f0f4-814a-9337-c93cc62ecec2",
-    "status": "stop_watching"
+    "status": "on_hold"
   },
   "7512": {
     "notion_id": "27cacd82-f0f4-8183-9f69-dd67ed215bf8",
@@ -2301,7 +2301,7 @@
   },
   "7914": {
     "notion_id": "27cacd82-f0f4-8144-8da5-e9bba77ca5a3",
-    "status": "stop_watching"
+    "status": "on_hold"
   },
   "7922": {
     "notion_id": "27cacd82-f0f4-816f-b5f3-c45dd1f2bbba",
@@ -2309,11 +2309,11 @@
   },
   "7983": {
     "notion_id": "27cacd82-f0f4-8144-8cf5-d77be1c8dec0",
-    "status": "wanna_watch"
+    "status": "stop_watching"
   },
   "8000": {
     "notion_id": "27cacd82-f0f4-8188-95e4-f5d1d348fab4",
-    "status": "stop_watching"
+    "status": "on_hold"
   },
   "8004": {
     "notion_id": "27cacd82-f0f4-81f2-bf42-ff53b5952ed0",
@@ -2353,7 +2353,7 @@
   },
   "8313": {
     "notion_id": "27cacd82-f0f4-811d-865f-f00cbad8b512",
-    "status": "wanna_watch"
+    "status": "watched"
   },
   "8365": {
     "notion_id": "27cacd82-f0f4-8197-b771-fa42859a289e",
@@ -2361,7 +2361,7 @@
   },
   "8379": {
     "notion_id": "27cacd82-f0f4-818e-95af-eb838fdcb027",
-    "status": "stop_watching"
+    "status": "on_hold"
   },
   "8402": {
     "notion_id": "27cacd82-f0f4-815b-94b6-e424f579c665",
@@ -2421,7 +2421,7 @@
   },
   "8677": {
     "notion_id": "27cacd82-f0f4-810e-bc72-f9f4aaaf51cd",
-    "status": "stop_watching"
+    "status": "on_hold"
   },
   "8693": {
     "notion_id": "27cacd82-f0f4-81d4-be86-d3383e8e3cb8",
@@ -2453,7 +2453,7 @@
   },
   "8851": {
     "notion_id": "27cacd82-f0f4-8102-a182-d26cfeb446bd",
-    "status": "stop_watching"
+    "status": "on_hold"
   },
   "8871": {
     "notion_id": "27cacd82-f0f4-81fb-88cd-dd6d781deaa4",
@@ -2465,7 +2465,7 @@
   },
   "8940": {
     "notion_id": "27cacd82-f0f4-810c-8a4a-f3bc74df5009",
-    "status": "wanna_watch"
+    "status": "stop_watching"
   },
   "8946": {
     "notion_id": "27cacd82-f0f4-81a1-bc0c-e56d1d5fee90",
@@ -2521,7 +2521,7 @@
   },
   "9183": {
     "notion_id": "27cacd82-f0f4-8135-ad11-f7a9ae60efee",
-    "status": "wanna_watch"
+    "status": "watched"
   },
   "9202": {
     "notion_id": "27cacd82-f0f4-814f-bcde-c9a396b5680e",
@@ -2613,7 +2613,7 @@
   },
   "9561": {
     "notion_id": "27cacd82-f0f4-816b-b184-cea421cbad53",
-    "status": "wanna_watch"
+    "status": "watched"
   },
   "9578": {
     "notion_id": "27cacd82-f0f4-81ed-bb4f-d2ce6c2ff21c",
@@ -2705,7 +2705,7 @@
   },
   "10067": {
     "notion_id": "27cacd82-f0f4-81fa-9389-c57d81b94d54",
-    "status": "wanna_watch"
+    "status": "stop_watching"
   },
   "10079": {
     "notion_id": "27cacd82-f0f4-81e3-8e60-f59dd0861798",
@@ -2805,11 +2805,11 @@
   },
   "10353": {
     "notion_id": "27cacd82-f0f4-8117-b494-c474e1776454",
-    "status": "wanna_watch"
+    "status": "watched"
   },
   "10366": {
     "notion_id": "27cacd82-f0f4-8113-b862-e3a63e89e3c1",
-    "status": "stop_watching"
+    "status": "on_hold"
   },
   "10399": {
     "notion_id": "27cacd82-f0f4-817c-ae6e-c3450f859b54",
@@ -2817,7 +2817,7 @@
   },
   "10403": {
     "notion_id": "27cacd82-f0f4-81de-aa31-f13810bb373f",
-    "status": "stop_watching"
+    "status": "on_hold"
   },
   "10432": {
     "notion_id": "27cacd82-f0f4-815c-a186-f0b6d72f4a5f",
@@ -2841,7 +2841,7 @@
   },
   "10583": {
     "notion_id": "27cacd82-f0f4-8169-a3d3-d24dadddee6a",
-    "status": "stop_watching"
+    "status": "on_hold"
   },
   "10588": {
     "notion_id": "27cacd82-f0f4-8192-a21c-e7d1daf57078",
@@ -2849,11 +2849,11 @@
   },
   "10590": {
     "notion_id": "27cacd82-f0f4-81af-816f-c06ae7006c1e",
-    "status": "stop_watching"
+    "status": "on_hold"
   },
   "10602": {
     "notion_id": "27cacd82-f0f4-8178-9fdb-dc99818c25e3",
-    "status": "wanna_watch"
+    "status": "stop_watching"
   },
   "10620": {
     "notion_id": "27cacd82-f0f4-81af-90af-cd6c487bb732",
@@ -2873,7 +2873,7 @@
   },
   "10627": {
     "notion_id": "27cacd82-f0f4-81b5-b74d-c5a1e0e97be7",
-    "status": "wanna_watch"
+    "status": "stop_watching"
   },
   "10686": {
     "notion_id": "27cacd82-f0f4-81c2-a4ce-c43695acd52a",
@@ -2889,7 +2889,7 @@
   },
   "10728": {
     "notion_id": "27cacd82-f0f4-819d-a287-cdd3860cdb3c",
-    "status": "stop_watching"
+    "status": "on_hold"
   },
   "10782": {
     "notion_id": "27cacd82-f0f4-817f-8441-c470af5ebeed",
@@ -2897,7 +2897,7 @@
   },
   "10865": {
     "notion_id": "27cacd82-f0f4-8104-9b5e-c9fd1936153a",
-    "status": "wanna_watch"
+    "status": "stop_watching"
   },
   "10869": {
     "notion_id": "27cacd82-f0f4-81f9-90a6-f736a45eaf3d",
@@ -2909,7 +2909,7 @@
   },
   "10919": {
     "notion_id": "27cacd82-f0f4-8137-a5fa-e0f88e856959",
-    "status": "wanna_watch"
+    "status": "watched"
   },
   "10926": {
     "notion_id": "27cacd82-f0f4-8125-8317-c95980808a93",
@@ -2985,7 +2985,7 @@
   },
   "11249": {
     "notion_id": "27cacd82-f0f4-81ae-bc2e-d2b7361ac014",
-    "status": "stop_watching"
+    "status": "on_hold"
   },
   "11259": {
     "notion_id": "27cacd82-f0f4-8179-a38a-e1f43d485edb",
@@ -3001,7 +3001,7 @@
   },
   "11308": {
     "notion_id": "27cacd82-f0f4-81c5-ae24-c369b3857cfe",
-    "status": "wanna_watch"
+    "status": "stop_watching"
   },
   "11504": {
     "notion_id": "27cacd82-f0f4-813a-9617-f4a54fd02f63",
@@ -3025,7 +3025,7 @@
   },
   "12064": {
     "notion_id": "27cacd82-f0f4-81e1-9377-d83acf3468dd",
-    "status": "stop_watching"
+    "status": "on_hold"
   },
   "12075": {
     "notion_id": "27cacd82-f0f4-8154-a1e0-c77d2877f1b9",
@@ -3093,7 +3093,7 @@
   },
   "12826": {
     "notion_id": "27cacd82-f0f4-81bd-b838-ea8bf76b4f17",
-    "status": "wanna_watch"
+    "status": "stop_watching"
   },
   "12827": {
     "notion_id": "27cacd82-f0f4-812d-84b1-e22bbfd8f3aa",
@@ -3121,7 +3121,7 @@
   },
   "12961": {
     "notion_id": "27cacd82-f0f4-81a5-90d7-d2236e60e775",
-    "status": "stop_watching"
+    "status": "on_hold"
   },
   "13089": {
     "notion_id": "27cacd82-f0f4-8159-9785-f9a4755d03e0",
@@ -3153,7 +3153,7 @@
   },
   "13727": {
     "notion_id": "27cacd82-f0f4-8156-845d-e024689af17f",
-    "status": "wanna_watch"
+    "status": "stop_watching"
   },
   "13744": {
     "notion_id": "27cacd82-f0f4-8163-ab11-d1cefb55c2f5",
@@ -3189,7 +3189,7 @@
   },
   "13894": {
     "notion_id": "27cacd82-f0f4-81de-a7e5-fa0bcc9ff474",
-    "status": "wanna_watch"
+    "status": "stop_watching"
   },
   "13979": {
     "notion_id": "27cacd82-f0f4-8137-b6e6-ceedc88f9024",
@@ -3217,11 +3217,11 @@
   },
   "14065": {
     "notion_id": "27cacd82-f0f4-8115-9186-cde20f6ee0cb",
-    "status": "wanna_watch"
+    "status": "stop_watching"
   },
   "14066": {
     "notion_id": "27cacd82-f0f4-8116-a48e-e340dc285a36",
-    "status": "wanna_watch"
+    "status": "stop_watching"
   },
   "14068": {
     "notion_id": "27cacd82-f0f4-81ad-9d28-f82cebadca11",
@@ -3277,7 +3277,7 @@
   },
   "15157": {
     "notion_id": "27cacd82-f0f4-81f8-a1b1-d6adba5a1a7c",
-    "status": "wanna_watch"
+    "status": "stop_watching"
   },
   "15351": {
     "notion_id": "27cacd82-f0f4-8193-a6ab-ea02e9873897",
