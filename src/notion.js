@@ -37,26 +37,26 @@ export class NotionAnimeProperties {
       };
     }
     if (this.id !== undefined && this.id !== null) {
-      result["id"] = {
+      result["annict_id"] = {
         "number": this.id
       };
     }
     if (this.status) {
-      result["ステータス"] = {
+      result["annict_status"] = {
         "select": {
           "name": this.status
         }
       };
     }
     if (this.season_name_text) {
-      result["シーズン"] = {
+      result["annict_season"] = {
         "select": {
           "name": this.season_name_text
         }
       };
     }
     if (this.media_text) {
-      result["メディア"] = {
+      result["annict_media"] = {
         "select": {
           "name": this.media_text
         }
