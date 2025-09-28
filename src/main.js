@@ -36,6 +36,7 @@ async function syncAnnictToNotion(status) {
 async function main() {
   Object.assign(animeData, await syncAnnictToNotion("watching"));
   Object.assign(animeData, await syncAnnictToNotion("watched"));
+  Object.assign(animeData, await syncAnnictToNotion("wanna_watch"));
   await writeFile('./data/data.json', JSON.stringify(animeData, null, 2), 'utf-8');
 }
 
