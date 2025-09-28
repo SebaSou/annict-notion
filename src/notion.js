@@ -99,10 +99,30 @@ export async function createNewAnimePage(data) {
     }
   }
 
-  const imagesData = await getPictures(data.mal_anime_id)
-  const images = imagesData?.data
-    ?.map(img => img.webp?.image_url)
-    ?.filter(url => url !== undefined);
+  let images = []; // まず空の配列としてimagesを定義します
+  try {
+    // Jikan APIから画像データを取得する処理をtryブロックで囲みます
+    const imagesData = await getPictures(data.mal_anime_id);
+    const jikanImages = imagesData?.data
+      ?.map(img => img.webp?.image_url)
+      ?.filter(url => url !== undefined);
+    
+    if (jikanImages) {
+      images = jikanImages; // 成功した場合、取得した画像をimagesに代入します
+    }
+    console.log(`Jikan APIから画像情報を取得しました: ${data.title}`);
+
+  } catch (error) {
+    if (error.response && error.response.status === 404) {
+      // 404エラーの場合は、メッセージを出力して処理を続けます（imagesは空のまま）
+      console.log(`Jikan APIで情報が見つかりませんでした。画像なしで処理を続けます: ${data.title}`);
+    } else {
+      // 404以外のエラーは、これまで通り処理を停止させます
+      console.error('Jikan APIで予期せぬエラーが発生しました:', error.message);
+      throw error;
+    }
+  }
+  // Annictのog_image_urlを追加する処理は、Jikanの処理が終わった後に行います
   if (data.images?.facebook?.og_image_url && data.images.facebook.og_image_url.startsWith("https://")) {
     images.unshift(data.images.facebook.og_image_url);
   }
