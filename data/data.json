@@ -2913,7 +2913,7 @@
   },
   "10819": {
     "notion_id": "2dfacd82-f0f4-81d2-934e-db028870b030",
-    "status": "watching"
+    "status": "watched"
   },
   "10865": {
     "notion_id": "27cacd82-f0f4-8104-9b5e-c9fd1936153a",
@@ -3361,7 +3361,7 @@
   },
   "15252": {
     "notion_id": "285acd82-f0f4-81c2-ae7e-e8e57f0b8c4f",
-    "status": "watching"
+    "status": "on_hold"
   },
   "15322": {
     "notion_id": "285acd82-f0f4-8165-a956-ce3f19804076",
@@ -3453,6 +3453,6 @@
   },
   "16573": {
     "notion_id": "2deacd82-f0f4-8176-9d07-e58fc661def3",
-    "status": "wanna_watch"
+    "status": "watched"
   }
 }
